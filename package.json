@@ -1,0 +1,23 @@
+{
+  "name": "taller3js",
+  "version": "1.0.0",
+  "description": "Crea un sistema de clases para representar diferentes tipos de vehículos. Debes crear:\r 1.Una clase Vehiculo con propiedades: marca, modelo, año y un\r método obtenerDetalles() que devuelva un string con toda la información.\r 2.Una clase Coche que herede de Vehiculo y añada la propiedad numeroPuertas.\r 3.Una clase Moto que herede de Vehiculo y añada la propiedad cilindrada.\r Crea instancias de ambas clases hijas y muestra sus detalles.",
+  "main": "sistemaVehiculos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liw1030/Taller3Js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liw1030/Taller3Js/issues"
+  },
+  "homepage": "https://github.com/Liw1030/Taller3Js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
